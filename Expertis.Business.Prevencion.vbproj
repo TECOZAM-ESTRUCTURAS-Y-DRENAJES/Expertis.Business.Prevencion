@@ -1,0 +1,196 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{8C373E64-8D27-407F-923A-D9B9D9C701F7}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <RootNamespace>Expertis.Business.Prevencion</RootNamespace>
+    <AssemblyName>Expertis.Business.Prevencion</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>Windows</MyType>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <OptionExplicit>On</OptionExplicit>
+    <OptionCompare>Binary</OptionCompare>
+    <OptionStrict>Off</OptionStrict>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>C:\ExpertisNet50R2test\Bin\</OutputPath>
+    <DocumentationFile>Expertis.Business.Prevencion.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>..\..\..\..\..\..\..\..\..\ExpertisNet50R2test\Bin\</OutputPath>
+    <DocumentationFile>Expertis.Business.Prevencion.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Expertis.Business.BusinessEnum, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\ExpertisNet50R2test\Bin\Expertis.Business.BusinessEnum.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Expertis.Business.ClasesTecozam, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\ExpertisNet50R2test\Bin\Expertis.Business.ClasesTecozam.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Expertis.Business.General, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\ExpertisNet50R2test\Bin\Expertis.Business.General.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Expertis.Business.Obra, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\ExpertisNet50R2test\Bin\Expertis.Business.Obra.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Expertis.Engine.BE.BusinessEngine, Version=5.5.0.0, Culture=neutral, PublicKeyToken=f4e70a047dadc395, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\ExpertisNet50R2test\Bin\Expertis.Engine.BE.BusinessEngine.dll</HintPath>
+    </Reference>
+    <Reference Include="Expertis.Engine.DAL, Version=5.5.0.0, Culture=neutral, PublicKeyToken=f4e70a047dadc395, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\ExpertisNet50R2test\Bin\Expertis.Engine.DAL.dll</HintPath>
+    </Reference>
+    <Reference Include="Expertis.Engine.Global, Version=5.5.0.0, Culture=neutral, PublicKeyToken=f4e70a047dadc395, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\ExpertisNet50R2test\Bin\Expertis.Engine.Global.dll</HintPath>
+    </Reference>
+    <Reference Include="Expertis.Engine.SqlDAL, Version=5.5.0.0, Culture=neutral, PublicKeyToken=f4e70a047dadc395, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\ExpertisNet50R2test\Bin\Expertis.Engine.SqlDAL.dll</HintPath>
+    </Reference>
+    <Reference Include="Expertis.Engine.UI.CommonClasses, Version=5.5.0.0, Culture=neutral, PublicKeyToken=f4e70a047dadc395, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\ExpertisNet50R2test\Bin\Expertis.Engine.UI.CommonClasses.dll</HintPath>
+    </Reference>
+    <Reference Include="Expertis.Engine.UI.Resources, Version=5.5.0.0, Culture=neutral, PublicKeyToken=f4e70a047dadc395, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\ExpertisNet50R2test\Bin\Expertis.Engine.UI.Resources.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Expertis" />
+    <Import Include="Expertis.Business" />
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="Solmicro" />
+    <Import Include="Solmicro.Expertis" />
+    <Import Include="Solmicro.Expertis.Business" />
+    <Import Include="Solmicro.Expertis.Business.BusinessEnum" />
+    <Import Include="Solmicro.Expertis.Business.ClasesTecozam" />
+    <Import Include="Solmicro.Expertis.Business.General" />
+    <Import Include="Solmicro.Expertis.Business.General.Servicio_VIES" />
+    <Import Include="Solmicro.Expertis.Business.Obra" />
+    <Import Include="Solmicro.Expertis.Engine" />
+    <Import Include="Solmicro.Expertis.Engine.BE" />
+    <Import Include="Solmicro.Expertis.Engine.BE.Alerts" />
+    <Import Include="Solmicro.Expertis.Engine.BE.BusinessProcesses" />
+    <Import Include="Solmicro.Expertis.Engine.DAL" />
+    <Import Include="Solmicro.Expertis.Engine.DAL.DBStructure" />
+    <Import Include="Solmicro.Expertis.Engine.DataObjects" />
+    <Import Include="Solmicro.Expertis.Engine.SqlDAL" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Comunes\dataCopia.vb" />
+    <Compile Include="Funciones.vb" />
+    <Compile Include="OperarioDesc.vb" />
+    <Compile Include="PrevencionReconocimento.vb" />
+    <Compile Include="ObraCalendario.vb" />
+    <Compile Include="PrevencionRecoPuesto.vb" />
+    <Compile Include="PrevencionPuesto.vb" />
+    <Compile Include="PrevencionObraVisitas.vb" />
+    <Compile Include="PrevencionObraRec.vb" />
+    <Compile Include="PrevencionObraPuesto.vb" />
+    <Compile Include="PrevencionObraInfor.vb" />
+    <Compile Include="PrevencionObraDoc.vb" />
+    <Compile Include="PrevencionObraDireccion.vb" />
+    <Compile Include="PrevencionNotificacion.vb" />
+    <Compile Include="PrevencionFormacion.vb" />
+    <Compile Include="PrevencionEpis.vb" />
+    <Compile Include="PrevencionEncargaJefe.vb" />
+    <Compile Include="PrevencionEmailCombo.vb" />
+    <Compile Include="PrevencionEmail.vb" />
+    <Compile Include="PrevencionComboNotifSancion.vb" />
+    <Compile Include="PrevencionComboEpi.vb" />
+    <Compile Include="PrevencionAlertas.vb" />
+    <Compile Include="PrevencionAccidentes.vb" />
+    <Compile Include="ObraEnvioTipo.vb" />
+    <Compile Include="EstadisticasPreven.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="ObraComunicadoTipo.vb" />
+    <Compile Include="PrevencionFormacionTipo.vb" />
+    <Compile Include="PrevencionTecozamCabecera.vb" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

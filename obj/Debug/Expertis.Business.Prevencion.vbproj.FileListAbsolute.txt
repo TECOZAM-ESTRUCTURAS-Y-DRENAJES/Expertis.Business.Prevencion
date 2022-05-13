@@ -1,0 +1,15 @@
+U:\DESARROLLOS EXPERTIS 5 R2\Tecozam\FTecozam R2\Business\Expertis.Business.Prevencion\Expertis.Business.Prevencion\obj\Debug\ResolveAssemblyReference.cache
+U:\DESARROLLOS EXPERTIS 5 R2\Tecozam\FTecozam R2\Business\Expertis.Business.Prevencion\Expertis.Business.Prevencion\obj\Debug\Expertis.Business.Prevencion.Resources.resources
+U:\DESARROLLOS EXPERTIS 5 R2\Tecozam\FTecozam R2\Business\Expertis.Business.Prevencion\Expertis.Business.Prevencion\obj\Debug\Expertis.Business.Prevencion.vbproj.GenerateResource.Cache
+C:\ExpertisNet50R2test\Bin\Expertis.Business.Prevencion.dll
+C:\ExpertisNet50R2test\Bin\Expertis.Business.Prevencion.pdb
+C:\ExpertisNet50R2test\Bin\Expertis.Business.Prevencion.xml
+U:\DESARROLLOS EXPERTIS 5 R2\Tecozam\FTecozam R2\Business\Expertis.Business.Prevencion\Expertis.Business.Prevencion\obj\Debug\Expertis.Business.Prevencion.dll
+U:\DESARROLLOS EXPERTIS 5 R2\Tecozam\FTecozam R2\Business\Expertis.Business.Prevencion\Expertis.Business.Prevencion\obj\Debug\Expertis.Business.Prevencion.xml
+U:\DESARROLLOS EXPERTIS 5 R2\Tecozam\FTecozam R2\Business\Expertis.Business.Prevencion\Expertis.Business.Prevencion\obj\Debug\Expertis.Business.Prevencion.pdb
+C:\Users\lgonzalez\Desktop\EXPERTIS\DESARROLLO EXPERTIS\FR2Sergio\BusinessSergio\Expertis.Business.Prevencion\Expertis.Business.Prevencion\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\lgonzalez\Desktop\EXPERTIS\DESARROLLO EXPERTIS\FR2Sergio\BusinessSergio\Expertis.Business.Prevencion\Expertis.Business.Prevencion\obj\Debug\Expertis.Business.Prevencion.Resources.resources
+C:\Users\lgonzalez\Desktop\EXPERTIS\DESARROLLO EXPERTIS\FR2Sergio\BusinessSergio\Expertis.Business.Prevencion\Expertis.Business.Prevencion\obj\Debug\Expertis.Business.Prevencion.vbproj.GenerateResource.Cache
+C:\Users\lgonzalez\Desktop\EXPERTIS\DESARROLLO EXPERTIS\FR2Sergio\BusinessSergio\Expertis.Business.Prevencion\Expertis.Business.Prevencion\obj\Debug\Expertis.Business.Prevencion.dll
+C:\Users\lgonzalez\Desktop\EXPERTIS\DESARROLLO EXPERTIS\FR2Sergio\BusinessSergio\Expertis.Business.Prevencion\Expertis.Business.Prevencion\obj\Debug\Expertis.Business.Prevencion.xml
+C:\Users\lgonzalez\Desktop\EXPERTIS\DESARROLLO EXPERTIS\FR2Sergio\BusinessSergio\Expertis.Business.Prevencion\Expertis.Business.Prevencion\obj\Debug\Expertis.Business.Prevencion.pdb

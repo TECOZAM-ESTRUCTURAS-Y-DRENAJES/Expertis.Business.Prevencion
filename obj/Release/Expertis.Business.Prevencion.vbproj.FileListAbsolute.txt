@@ -1,0 +1,40 @@
+C:\Users\TECOSISTEMAS-01-P\Desktop\Expertis5\Expertis.Business.Prevencion\Expertis.Business.Prevencion\bin\Release\Expertis.Business.Prevencion.dll
+C:\Users\TECOSISTEMAS-01-P\Desktop\Expertis5\Expertis.Business.Prevencion\Expertis.Business.Prevencion\bin\Release\Expertis.Business.Prevencion.pdb
+C:\Users\TECOSISTEMAS-01-P\Desktop\Expertis5\Expertis.Business.Prevencion\Expertis.Business.Prevencion\bin\Release\Expertis.Business.Prevencion.xml
+C:\Users\TECOSISTEMAS-01-P\Desktop\Expertis5\Expertis.Business.Prevencion\Expertis.Business.Prevencion\bin\Release\Expertis.Business.BusinessEnum.dll
+C:\Users\TECOSISTEMAS-01-P\Desktop\Expertis5\Expertis.Business.Prevencion\Expertis.Business.Prevencion\bin\Release\Expertis.Business.ClasesTecozam.dll
+C:\Users\TECOSISTEMAS-01-P\Desktop\Expertis5\Expertis.Business.Prevencion\Expertis.Business.Prevencion\bin\Release\Expertis.Business.General.dll
+C:\Users\TECOSISTEMAS-01-P\Desktop\Expertis5\Expertis.Business.Prevencion\Expertis.Business.Prevencion\bin\Release\Expertis.Business.Obra.dll
+C:\Users\TECOSISTEMAS-01-P\Desktop\Expertis5\Expertis.Business.Prevencion\Expertis.Business.Prevencion\bin\Release\log4net.dll
+C:\Users\TECOSISTEMAS-01-P\Desktop\Expertis5\Expertis.Business.Prevencion\Expertis.Business.Prevencion\bin\Release\Expertis.Business.Negocio.dll
+C:\Users\TECOSISTEMAS-01-P\Desktop\Expertis5\Expertis.Business.Prevencion\Expertis.Business.Prevencion\bin\Release\CrystalDecisions.Windows.Forms.dll
+C:\Users\TECOSISTEMAS-01-P\Desktop\Expertis5\Expertis.Business.Prevencion\Expertis.Business.Prevencion\bin\Release\CrystalDecisions.Shared.dll
+C:\Users\TECOSISTEMAS-01-P\Desktop\Expertis5\Expertis.Business.Prevencion\Expertis.Business.Prevencion\bin\Release\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\TECOSISTEMAS-01-P\Desktop\Expertis5\Expertis.Business.Prevencion\Expertis.Business.Prevencion\bin\Release\Expertis.Business.Financiero.dll
+C:\Users\TECOSISTEMAS-01-P\Desktop\Expertis5\Expertis.Business.Prevencion\Expertis.Business.Prevencion\bin\Release\Expertis.Business.CRM.dll
+C:\Users\TECOSISTEMAS-01-P\Desktop\Expertis5\Expertis.Business.Prevencion\Expertis.Business.Prevencion\bin\Release\Expertis.Business.General.pdb
+C:\Users\TECOSISTEMAS-01-P\Desktop\Expertis5\Expertis.Business.Prevencion\Expertis.Business.Prevencion\bin\Release\Expertis.Business.ClasesTecozam.pdb
+C:\Users\TECOSISTEMAS-01-P\Desktop\Expertis5\Expertis.Business.Prevencion\Expertis.Business.Prevencion\bin\Release\Expertis.Business.ClasesTecozam.xml
+C:\Users\TECOSISTEMAS-01-P\Desktop\Expertis5\Expertis.Business.Prevencion\Expertis.Business.Prevencion\bin\Release\Expertis.Business.Obra.pdb
+C:\Users\TECOSISTEMAS-01-P\Desktop\Expertis5\Expertis.Business.Prevencion\Expertis.Business.Prevencion\bin\Release\Expertis.Business.General.XmlSerializers.dll
+C:\Users\TECOSISTEMAS-01-P\Desktop\Expertis5\Expertis.Business.Prevencion\Expertis.Business.Prevencion\obj\Release\ResolveAssemblyReference.cache
+C:\Users\TECOSISTEMAS-01-P\Desktop\Expertis5\Expertis.Business.Prevencion\Expertis.Business.Prevencion\obj\Release\Expertis.Business.Prevencion.Resources.resources
+C:\Users\TECOSISTEMAS-01-P\Desktop\Expertis5\Expertis.Business.Prevencion\Expertis.Business.Prevencion\obj\Release\Expertis.Business.Prevencion.vbproj.GenerateResource.Cache
+C:\Users\TECOSISTEMAS-01-P\Desktop\Expertis5\Expertis.Business.Prevencion\Expertis.Business.Prevencion\obj\Release\Expertis.Business.Prevencion.dll
+C:\Users\TECOSISTEMAS-01-P\Desktop\Expertis5\Expertis.Business.Prevencion\Expertis.Business.Prevencion\obj\Release\Expertis.Business.Prevencion.xml
+C:\Users\TECOSISTEMAS-01-P\Desktop\Expertis5\Expertis.Business.Prevencion\Expertis.Business.Prevencion\obj\Release\Expertis.Business.Prevencion.pdb
+C:\ExpertisNet50R2test\Bin\Expertis.Business.Prevencion.dll
+C:\ExpertisNet50R2test\Bin\Expertis.Business.Prevencion.pdb
+C:\ExpertisNet50R2test\Bin\Expertis.Business.Prevencion.xml
+C:\Users\lgonzalez\Desktop\ExpertisNet50R2test\Bin\Expertis.Business.Prevencion.dll
+C:\Users\lgonzalez\Desktop\ExpertisNet50R2test\Bin\Expertis.Business.Prevencion.pdb
+C:\Users\lgonzalez\Desktop\ExpertisNet50R2test\Bin\Expertis.Business.Prevencion.xml
+C:\Users\lgonzalez\Desktop\EXPERTIS\DESARROLLO EXPERTIS\FR2Sergio\BusinessSergio\Expertis.Business.Prevencion\Expertis.Business.Prevencion\obj\Release\ResolveAssemblyReference.cache
+C:\Users\lgonzalez\Desktop\EXPERTIS\DESARROLLO EXPERTIS\FR2Sergio\BusinessSergio\Expertis.Business.Prevencion\Expertis.Business.Prevencion\obj\Release\Expertis.Business.Prevencion.Resources.resources
+C:\Users\lgonzalez\Desktop\EXPERTIS\DESARROLLO EXPERTIS\FR2Sergio\BusinessSergio\Expertis.Business.Prevencion\Expertis.Business.Prevencion\obj\Release\Expertis.Business.Prevencion.vbproj.GenerateResource.Cache
+C:\Users\lgonzalez\Desktop\EXPERTIS\DESARROLLO EXPERTIS\FR2Sergio\BusinessSergio\Expertis.Business.Prevencion\Expertis.Business.Prevencion\obj\Release\Expertis.Business.Prevencion.dll
+C:\Users\lgonzalez\Desktop\EXPERTIS\DESARROLLO EXPERTIS\FR2Sergio\BusinessSergio\Expertis.Business.Prevencion\Expertis.Business.Prevencion\obj\Release\Expertis.Business.Prevencion.xml
+C:\Users\lgonzalez\Desktop\EXPERTIS\DESARROLLO EXPERTIS\FR2Sergio\BusinessSergio\Expertis.Business.Prevencion\Expertis.Business.Prevencion\obj\Release\Expertis.Business.Prevencion.pdb
+C:\ExpertisNet50R2\Bin\Expertis.Business.Prevencion.dll
+C:\ExpertisNet50R2\Bin\Expertis.Business.Prevencion.pdb
+C:\ExpertisNet50R2\Bin\Expertis.Business.Prevencion.xml
