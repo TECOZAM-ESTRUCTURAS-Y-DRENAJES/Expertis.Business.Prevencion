@@ -13,3 +13,9 @@ C:\Users\lgonzalez\Desktop\EXPERTIS\DESARROLLO EXPERTIS\FR2Sergio\BusinessSergio
 C:\Users\lgonzalez\Desktop\EXPERTIS\DESARROLLO EXPERTIS\FR2Sergio\BusinessSergio\Expertis.Business.Prevencion\Expertis.Business.Prevencion\obj\Debug\Expertis.Business.Prevencion.dll
 C:\Users\lgonzalez\Desktop\EXPERTIS\DESARROLLO EXPERTIS\FR2Sergio\BusinessSergio\Expertis.Business.Prevencion\Expertis.Business.Prevencion\obj\Debug\Expertis.Business.Prevencion.xml
 C:\Users\lgonzalez\Desktop\EXPERTIS\DESARROLLO EXPERTIS\FR2Sergio\BusinessSergio\Expertis.Business.Prevencion\Expertis.Business.Prevencion\obj\Debug\Expertis.Business.Prevencion.pdb
+C:\Users\dfernandez\Desktop\FuentesExpertis\Business\Expertis.Business.Prevencion\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\dfernandez\Desktop\FuentesExpertis\Business\Expertis.Business.Prevencion\obj\Debug\Expertis.Business.Prevencion.Resources.resources
+C:\Users\dfernandez\Desktop\FuentesExpertis\Business\Expertis.Business.Prevencion\obj\Debug\Expertis.Business.Prevencion.vbproj.GenerateResource.Cache
+C:\Users\dfernandez\Desktop\FuentesExpertis\Business\Expertis.Business.Prevencion\obj\Debug\Expertis.Business.Prevencion.dll
+C:\Users\dfernandez\Desktop\FuentesExpertis\Business\Expertis.Business.Prevencion\obj\Debug\Expertis.Business.Prevencion.xml
+C:\Users\dfernandez\Desktop\FuentesExpertis\Business\Expertis.Business.Prevencion\obj\Debug\Expertis.Business.Prevencion.pdb

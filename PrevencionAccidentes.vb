@@ -122,9 +122,14 @@ Public Class PrevencionAccidentes
     Public Function DevuelveID() As Integer
         Return AdminData.GetAutoNumeric
     End Function
-    Public Function ActualizaInfo(ByVal dibaja As String, ByVal idacci As String)
+    Public Function ActualizaInfo(ByVal dibaja As Object, ByVal idacci As String)
         Dim strDel As String = " update tbOperarioAccidentes"
-        strDel &= " SET ndiasBaja = ('" & dibaja & "')"
+        strDel &= " SET ndiasBaja = "
+        If dibaja Is DBNull.Value Then
+            strDel &= "NULL"
+        Else
+            strDel &= "('" & dibaja.ToString() & "')"
+        End If
         strDel &= " WHERE IDAccidente = ('" & idacci & "')"
         Try
             AdminData.Execute(strDel)
@@ -132,6 +137,7 @@ Public Class PrevencionAccidentes
             MsgBox("Ha habido un error " & Ex.Message)
         End Try
     End Function
+
 #End Region
 
 End Class
